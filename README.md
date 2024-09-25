@@ -8,7 +8,7 @@
 
 - 💽Working on **Biogg.net** at the Moment
 
-### 📲Contact me trough Discord: s42.
+### 📲Contact me trough Discord: [S42](https://discord.com/users/787306646417571860)
 
 <hr></hr>
 
