@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @S42yt
+# 👋 Hi, I’m S42
 
 <hr></hr>
 
-- ✨I am A **German** 🇩🇪 and **Turkish**🇹🇷
+- ✨I’m a **German** 🇩🇪 and **Turkish**🇹🇷
 
 - 👾**Software Developer** and **Software Designer**
 
@@ -28,10 +28,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> &nbsp;&nbsp;
 </p>
-
-
-
-
-
-
-
