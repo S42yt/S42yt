@@ -8,7 +8,6 @@
 
 - 💽Working on **Biogg.net** at the Moment
 
-  <img src="https://github.com/realChriss/gAssets/blob/main/assets/logo.png" alt="Biogg" width="45" height="45"/> &nbsp;&nbsp;
 
 ### 📲Contact me trough Discord: [S42](https://discord.com/users/787306646417571860)
 
