@@ -1,4 +1,4 @@
-# 👋 Hi, I’m S42
+# 👋 Hey its me S42
 
 <hr></hr>
 
@@ -9,11 +9,11 @@
 - 💽Working on **Biogg.net** at the Moment
 
 
-### 📲Contact me trough Discord: [S42](https://discord.com/users/787306646417571860)
+### 📲Contact: [S42](https://discord.com/users/787306646417571860)
 
 <hr></hr>
 
-### 🔥Languages and Tools i use
+### 🔥Languages and Tools:
 
 <hr></hr>
 
