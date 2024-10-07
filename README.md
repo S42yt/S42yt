@@ -8,6 +8,8 @@
 
 - 💽Working on **Biogg.net** at the Moment
 
+_i stole from tamikaschu uwu_
+
 
 ### 📲Contact: [S42](https://discord.com/users/787306646417571860)
 
