@@ -7,7 +7,6 @@
 
 - 💽Working on **[Biogg.net](https://biogg.net)** and **[CuteCraft.net](http://discord.cutecraft.net)** at the Moment
 
-_i stole from tamikaschu uwu_
 
 
 ### 📲Contact me trough Discord: [S42](https://discord.com/users/787306646417571860)
