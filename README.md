@@ -26,9 +26,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S42yt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr></hr>
-
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/S42yt) 
-
-<hr></hr>
-
