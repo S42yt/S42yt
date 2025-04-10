@@ -1,13 +1,12 @@
 # 👋 Hey its me S42
 
 
-- ✨I’m a **German** 🇩🇪 and **Turkish**🇹🇷
 
 - 👾**Software Developer**
 
 - ⚡️I mainly focus on **Frontend and Userfriendly UI/UX**
 
-- 💽Working on **Desto.lol** and **[CuteCraft.net](https://discord.gg/cutecraft)** at the Moment
+- 💽Working on **[Desto.lol](https://desto.lol)** and **[CuteCraft.net](https://discord.gg/cutecraft)** at the Moment
 
 
 
