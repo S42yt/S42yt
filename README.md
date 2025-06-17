@@ -31,6 +31,9 @@ I'm a developer with a focus on UI/UX and creating beautiful applications.
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
   </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  </a>
 </p>
 <p>and much more</p>
 
