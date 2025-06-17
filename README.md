@@ -2,7 +2,7 @@
 
 I'm a developer with a focus on UI/UX and creating beautiful applications.
 
-- 🔭 I’m currently working on [Desto.lol](https://desto.lol) and [CuteCraft.net](https://discord.gg/cutecraft)
+- 🔭 I’m currently working on [CuteCraft.net](https://discord.gg/cutecraft) and building a plugin network for minecraft
 - 📫 How to reach me: [Discord](https://discord.com/users/787306646417571860)
 
 <br/>
