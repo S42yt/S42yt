@@ -38,14 +38,3 @@ I'm a developer with a focus on UI/UX and creating beautiful applications.
 <p>and much more</p>
 
 <br/>
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/S42yt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=S42yt&show_icons=true&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/S42yt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S42yt&layout=compact&theme=transparent&hide_border=true" />
-  </a>
-</p>
