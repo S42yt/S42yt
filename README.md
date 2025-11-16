@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm S42
 
 I'm a developer with a focus on UI/UX and creating beautiful applications.
+Learning OpenGL rendering at the moment.
 
 - 🔭 I’m currently working on [CuteCraft.net](https://discord.gg/cutecraft) and [NoRisk Client](https://norisk.gg)
 - 📫 How to reach me: [Discord](https://discord.com/users/787306646417571860)
@@ -23,7 +24,7 @@ I'm a developer with a focus on UI/UX and creating beautiful applications.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
