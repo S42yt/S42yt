@@ -3,7 +3,7 @@
 I'm a developer with a focus on UI/UX and creating beautiful applications.
 Learning OpenGL rendering at the moment.
 
-- 🔭 I’m currently working on [CuteCraft.net](https://discord.gg/cutecraft) and [NoRisk Client](https://norisk.gg)
+- 🔭 I’m currently working on [NoRisk Client](https://norisk.gg)
 - 📫 How to reach me: [Discord](https://discord.com/users/787306646417571860)
 
 <br/>
